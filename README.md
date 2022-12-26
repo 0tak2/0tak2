@@ -3,6 +3,7 @@
 상상을 컴파일하는 백엔드 개발자 지망생
 
 📫 0tak2.code@gmail.com
+💬 [Blog](https://archiveyoung.tistory.com/)
 
 <!--
 **0tak2/0tak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
