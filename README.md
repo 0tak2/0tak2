@@ -2,8 +2,8 @@
 
 상상을 컴파일하는 백엔드 개발자 지망생
 
-📝 [TIL](https://0tak2.github.io/T0L/)
-💬 [Blog](https://archiveyoung.tistory.com/)
+📝 [TIL](https://0tak2.github.io/T0L/)  
+💬 [Blog](https://archiveyoung.tistory.com/)  
 📫 0tak2.code@gmail.com  
 
 <!--
