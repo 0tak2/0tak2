@@ -14,8 +14,8 @@
 &nbsp;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tak2&hide=c%2B%2B,c,perl&locale=kr" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=0tak2&show_icons=true&count_private=true&locale=kr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tak2&hide=c%2B%2B,c,perl&locale=kr" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=0tak2&count_private=true&locale=kr" />
 </p>
 
 &nbsp;  
