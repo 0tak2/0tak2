@@ -21,10 +21,10 @@
 ![](https://img.shields.io/badge/sh-white)
 ![](https://img.shields.io/badge/SQL-white)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![](https://img.shields.io/badge/Spring%20Web%20/%20Data%20/%20Batch%20/%20Security-green)
+![](https://img.shields.io/badge/Spring%20Web%C2%B7Data%C2%B7Batch%C2%B7Security-green)
 ![](https://img.shields.io/badge/Hibernate-gray)
 ![](https://img.shields.io/badge/ExpressJS-black)
-![](https://img.shields.io/badge/MariaDB-CornflowerBlue)
+![](https://img.shields.io/badge/MariaDB-cornflowerblue)
 ![](https://img.shields.io/badge/Docker-skyblue)
 ![](https://img.shields.io/badge/Linux%28Debian%2C%20Redhat%29-yellow)
 ![](https://img.shields.io/badge/gRPC-red)
