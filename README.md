@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/ExpressJS-black)
 ![](https://img.shields.io/badge/MariaDB-cornflowerblue)
 ![](https://img.shields.io/badge/Docker-skyblue)
-![](https://img.shields.io/badge/Linux%28Debian%2C%20Redhat%29-yellow)
+![](https://img.shields.io/badge/Debian-yellow)
 ![](https://img.shields.io/badge/gRPC-red)
 ![](https://img.shields.io/badge/Gitlab%20CI/CD-orange)
 ![](https://img.shields.io/badge/OpenTelemetry-blue)
