@@ -8,11 +8,12 @@
 
 &nbsp;
 
-💬 &nbsp; ![](https://img.shields.io/badge/몰입%20%C2%B7%20동기화-black) &nbsp; 
-![](https://img.shields.io/badge/소통-black) &nbsp; 
-![](https://img.shields.io/badge/문서화-black) &nbsp; 
-![](https://img.shields.io/badge/테스트-black) &nbsp; 
-![](https://img.shields.io/badge/확장가능한-black) &nbsp; 
+💬 &nbsp; ![](https://img.shields.io/badge/몰입%20%C2%B7%20동기화-linen) &nbsp; 
+![](https://img.shields.io/badge/소통-linen) &nbsp; 
+![](https://img.shields.io/badge/문서화-linen) &nbsp; 
+![](https://img.shields.io/badge/테스트-linen) &nbsp; 
+![](https://img.shields.io/badge/변경이%20쉬운-linen) &nbsp; 
+![](https://img.shields.io/badge/확장가능한-linen) &nbsp; 
 
 ✨ &nbsp; ![](https://img.shields.io/badge/Java-white)
 ![](https://img.shields.io/badge/JavaScript-white)
@@ -23,7 +24,7 @@
 ![](https://img.shields.io/badge/Spring%20Web%20/%20Data%20/%20Batch%20/%20Security-green)
 ![](https://img.shields.io/badge/Hibernate-gray)
 ![](https://img.shields.io/badge/ExpressJS-black)
-![](https://img.shields.io/badge/MariaDB-purple)
+![](https://img.shields.io/badge/MariaDB-CornflowerBlue)
 ![](https://img.shields.io/badge/Docker-skyblue)
 ![](https://img.shields.io/badge/Linux%28Debian%2C%20Redhat%29-yellow)
 ![](https://img.shields.io/badge/gRPC-red)
